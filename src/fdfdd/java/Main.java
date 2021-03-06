@@ -1,3 +1,7 @@
+
+
 public class Main {
-    d;slds;ls;dls
+    public static void main(String[] args) {
+        System.out.println("k");
+    }
 }
